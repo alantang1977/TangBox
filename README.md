@@ -1,4 +1,10 @@
 tangtV
+
+![W--](https://user-images.githubusercontent.com/107459091/191898124-c185e949-756d-4b82-af6f-4d469aa64808.png)
+![W-](https://user-images.githubusercontent.com/107459091/191898172-a942d500-9366-4230-a20a-d8628ebf743a.png)
+![W-](https://user-images.githubusercontent.com/107459091/191898188-bd1a83b7-a4d9-4d1f-8914-c0e0083b1a34.png)
+
+
 使用方法
 tangtV资源接口外链托管网址：感觉哪个好用用哪个，能不能用，好不要用，有没有坑，自己测试。网上的东西，只是收集，不做测试推荐。
 1、https://gitea.com/ 已开始限制，清理
@@ -222,5 +228,11 @@ https://down.52pojie.cn/Tools/
 3、下载编码器，
 
 改名为 ShakaApktool.jar 替换 AndroidKiller\bin\apktool\apktool https://bitbucket.org/iBotPeaches/apktool/downloads/
+
+![Qn(5)](https://user-images.githubusercontent.com/107459091/191898240-67914b4e-391f-45ee-baea-5ce69ba29e61.png)
+
+![Qn(4)](https://user-images.githubusercontent.com/107459091/191898247-933b6b44-9d36-4b12-b6b2-f8bbac669972.png)
+
+![Qn(3)](https://user-images.githubusercontent.com/107459091/191898261-6418e3c0-48be-4891-90d1-0a2e92291b46.png)
 
 
