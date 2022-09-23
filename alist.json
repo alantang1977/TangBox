@@ -15,8 +15,8 @@
 //"spider":"https://github.com/alantang1977/TangBox/raw/main/jar/alist.jar",
 //"spider":"https://github.com/alantang1977/TangBox/raw/main/jar/custom_sep.jar",
 //"spider":"https://github.com/alantang1977/TangBox/raw/main/jar/%E5%90%88%E9%9B%86%E6%9B%B4%E6%96%B0%E9%95%BF%E8%80%8177.jar",
-"spider":"https://github.com/alantang1977/TangBox/raw/main/jar/tangTV.jar",
-//"spider":"https://github.com/alantang1977/TangBox/raw/main/jar/20220923_ts0903.jar",
+//"spider":"https://github.com/alantang1977/TangBox/raw/main/jar/tangTV.jar",
+"spider":"https://github.com/alantang1977/TangBox/raw/main/jar/20220923_ts0903.jar",
 
 
 "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
@@ -37,7 +37,7 @@
 //{"key":"csp_Gitcafe","name":"📜小纸条(云盘高清)","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":0,"ext":"868fc73ad70d4b958bbbda93330c6c35"},
 //{"key":"csp_xpath_clss","name":"🧲磁力搜索","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://github.com/alantang1977/TangBox/raw/main/XP/%E7%A3%81%E5%8A%9B%E6%90%9C%E7%B4%A2.json"},
 //{"key": "zhaozy","name": "🐱找资源","type": 3,"api": "csp_FindZY","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "868fc73ad70d4b958bbbda93330c6c35"},
-{"key": "push_agent","name":"🐱推送","type": 3,"api": "csp_PushAgent","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "868fc73ad70d4b958bbbda93330c6c35"	},
+//{"key": "push_agent","name":"🐱推送","type": 3,"api": "csp_PushAgent","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "868fc73ad70d4b958bbbda93330c6c35"	},
 
 {"key":"csp_Alist","name":"🗂Alist合集","type":3,"api":"csp_Alist","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://github.com/alantang1977/TangBox/raw/main/XP/Alist.json"},
 {"key":"csp_bendi","name":"📂本地视频","type":3,"api":"csp_LocalFile","searchable":0,"quickSearch":0,"filterable":0,"type_flag":1},
